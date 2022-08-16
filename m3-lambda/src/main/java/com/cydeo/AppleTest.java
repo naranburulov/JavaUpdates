@@ -22,10 +22,10 @@ public class AppleTest {
 
 
 
-        ApplePredicate weightApple = (Apple apple) -> apple.getWeight()>200;
+        ApplePredicate weightApple = apple -> apple.getWeight()>200;
         filterApples(inventory, weightApple);
 
-        ApplePredicate greenApples = (Apple apple) -> apple.getColor().equals(Color.GREEN);
+        ApplePredicate greenApples = apple -> apple.getColor().equals(Color.GREEN);
         filterApples(inventory, greenApples);
 
 
