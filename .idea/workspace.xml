@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="added more classes for apple task to sort the apples">
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleTest.java" afterDir="false" />
+    <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="apple test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ApplePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ApplePredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AppleTest">
+    <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.AppleTest" />
+      <module name="m3-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.ArraySorting" />
       <module name="m3-lambda" />
@@ -68,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppleTest" />
         <item itemvalue="Application.ArraySorting" />
       </list>
     </recent_temporary>
@@ -81,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660650644247</updated>
       <workItem from="1660650646017" duration="5391000" />
-      <workItem from="1660658159270" duration="1471000" />
+      <workItem from="1660658159270" duration="5312000" />
     </task>
     <task id="LOCAL-00001" summary="project started, gitignore added">
       <created>1660651013714</created>
@@ -132,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660658951940</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="apple test">
+      <created>1660660995594</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660660995595</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +181,8 @@
     <MESSAGE value="started Apple task" />
     <MESSAGE value="enabled lombok" />
     <MESSAGE value="added more classes for apple task to sort the apples" />
-    <option name="LAST_COMMIT_MESSAGE" value="added more classes for apple task to sort the apples" />
+    <MESSAGE value="apple test" />
+    <option name="LAST_COMMIT_MESSAGE" value="apple test" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

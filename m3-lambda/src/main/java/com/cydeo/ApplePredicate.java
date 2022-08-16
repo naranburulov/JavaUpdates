@@ -1,6 +1,7 @@
 package com.cydeo;
 
-public interface ApplePredicate {
 
+public interface ApplePredicate {
     boolean test (Apple apple);
 }
+
