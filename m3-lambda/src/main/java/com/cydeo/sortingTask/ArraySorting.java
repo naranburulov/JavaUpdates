@@ -1,6 +1,4 @@
-package com.cydeo;
-
-import java.lang.reflect.Array;
+package com.cydeo.sortingTask;
 
 public class ArraySorting {
 

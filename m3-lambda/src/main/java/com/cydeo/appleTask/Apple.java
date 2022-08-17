@@ -1,4 +1,4 @@
-package com.cydeo;
+package com.cydeo.appleTask;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

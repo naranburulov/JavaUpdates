@@ -4,12 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="apple test">
+    <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="lambda modified">
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/Orange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ApplePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ApplePredicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/appleTask/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleGreenColorPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/appleTask/AppleGreenColorPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleHeavyPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/appleTask/AppleHeavyPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ApplePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/appleTask/ApplePredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/appleTask/AppleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/sortingTask/ArraySorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/sortingTask/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/appleTask/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/sortingTask/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/sortingTask/Sorting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -55,13 +63,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AppleTest">
+  <component name="RunManager" selected="Application.com.cydeo.AppleTest">
     <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.AppleTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.appleTask.AppleTest" />
       <module name="m3-lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.*" />
+          <option name="PATTERN" value="com.cydeo.sortingTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.ArraySorting" />
+    <configuration name="com.cydeo.sortingTask.ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.sortingTask.ArraySorting" />
       <module name="m3-lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.*" />
+          <option name="PATTERN" value="com.cydeo.sortingTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,8 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppleTest" />
-        <item itemvalue="Application.ArraySorting" />
+        <item itemvalue="Application.com.cydeo.AppleTest" />
+        <item itemvalue="Application.com.cydeo.sortingTask.ArraySorting" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660650644247</updated>
       <workItem from="1660650646017" duration="5391000" />
-      <workItem from="1660658159270" duration="5312000" />
+      <workItem from="1660658159270" duration="7099000" />
     </task>
     <task id="LOCAL-00001" summary="project started, gitignore added">
       <created>1660651013714</created>
@@ -156,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660660995595</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="implemented lambda">
+      <created>1660676508849</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660676508850</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lambda modified">
+      <created>1660676650630</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660676650630</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +204,9 @@
     <MESSAGE value="enabled lombok" />
     <MESSAGE value="added more classes for apple task to sort the apples" />
     <MESSAGE value="apple test" />
-    <option name="LAST_COMMIT_MESSAGE" value="apple test" />
+    <MESSAGE value="implemented lambda" />
+    <MESSAGE value="lambda modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda modified" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

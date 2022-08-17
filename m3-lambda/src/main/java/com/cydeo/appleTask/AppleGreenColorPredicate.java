@@ -1,4 +1,4 @@
-package com.cydeo;
+package com.cydeo.appleTask;
 
 public class AppleGreenColorPredicate implements ApplePredicate {
 
