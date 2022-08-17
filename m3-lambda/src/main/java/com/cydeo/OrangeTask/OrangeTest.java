@@ -13,6 +13,10 @@ public class OrangeTest {
         inventory.add(new Orange(50, Color.RED));
 
 
+        OrangeFormatter orangeLambda = orange -> "An orange of " + orange.getWeight() + " is green.";
+
+        prettyPrintOrange(inventory, orangeLambda);
+
 
     }
 
