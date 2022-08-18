@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="created Lambda expression, and next executed via prettyPrintOrange method">
+    <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="task complete">
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/socialNetworkTask/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/OrangeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/OrangeFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/OrangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/OrangeTask/OrangeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +110,7 @@
       <updated>1660650644247</updated>
       <workItem from="1660650646017" duration="5391000" />
       <workItem from="1660658159270" duration="12833000" />
-      <workItem from="1660789716278" duration="2328000" />
+      <workItem from="1660789716278" duration="3036000" />
     </task>
     <task id="LOCAL-00001" summary="project started, gitignore added">
       <created>1660651013714</created>
@@ -212,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660729921959</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="task complete">
+      <created>1660826717215</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660826717215</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +249,8 @@
     <MESSAGE value="functional interface created, main class created" />
     <MESSAGE value="critical method using the inventory list of oranges and OrangeFormatter interface was created in the TestOrange class" />
     <MESSAGE value="created Lambda expression, and next executed via prettyPrintOrange method" />
-    <option name="LAST_COMMIT_MESSAGE" value="created Lambda expression, and next executed via prettyPrintOrange method" />
+    <MESSAGE value="task complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="task complete" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
