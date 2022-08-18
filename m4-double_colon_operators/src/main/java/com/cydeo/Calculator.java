@@ -1,3 +1,5 @@
+package com.cydeo;
+
 public class Calculator {
 
     public static void findSum(int x, int y) {
