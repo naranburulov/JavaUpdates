@@ -1,6 +1,7 @@
 package com.cydeo.socialNetworkTask;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class MemberTest {
@@ -11,6 +12,12 @@ public class MemberTest {
         Person p2 = new Person("dorothy", 20, Gender.FEMALE, "d@gmail.com");
         Person p3 = new Person("memo", 45, Gender.MALE,"mehmet@gmail.com");
         Person p4 = new Person("mike", 55, Gender.MALE, "mike@gmail.com");
+
+
+        List<Person> personList = Arrays.asList(p1,p2,p3,p4);
+
+
+
 
 
 
