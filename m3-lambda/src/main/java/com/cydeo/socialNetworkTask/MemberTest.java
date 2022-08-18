@@ -1,0 +1,16 @@
+package com.cydeo.socialNetworkTask;
+
+public class MemberTest {
+
+    public static void main(String[] args) {
+
+        Person p1 = new Person("naran", 37, Gender.MALE, "naran@gmail.com");
+        Person p2 = new Person("dorothy", 20, Gender.FEMALE, "d@gmail.com");
+        Person p3 = new Person("memo", 45, Gender.MALE,"mehmet@gmail.com");
+        Person p4 = new Person("mike", 55, Gender.MALE, "mike@gmail.com");
+
+
+
+
+    }
+}

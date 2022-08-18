@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="SocialNetworkTask - work started">
-      <change afterPath="$PROJECT_DIR$/m3-lambda/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/socialNetworkTask/Gender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/socialNetworkTask/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/socialNetworkTask/Person.java" afterDir="false" />
+    <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="interface CheckMembers added">
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/socialNetworkTask/MemberTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -117,7 +115,7 @@
       <updated>1660650644247</updated>
       <workItem from="1660650646017" duration="5391000" />
       <workItem from="1660658159270" duration="12833000" />
-      <workItem from="1660789716278" duration="3364000" />
+      <workItem from="1660789716278" duration="3751000" />
     </task>
     <task id="LOCAL-00001" summary="project started, gitignore added">
       <created>1660651013714</created>
@@ -231,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660827206378</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="lombok added to Person class,&#10;Gender enum created">
+      <created>1660827494525</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1660827494525</updated>
+    </task>
+    <task id="LOCAL-00018" summary="interface CheckMembers added">
+      <created>1660827711836</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1660827711836</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,7 +277,9 @@
     <MESSAGE value="created Lambda expression, and next executed via prettyPrintOrange method" />
     <MESSAGE value="task complete" />
     <MESSAGE value="SocialNetworkTask - work started" />
-    <option name="LAST_COMMIT_MESSAGE" value="SocialNetworkTask - work started" />
+    <MESSAGE value="lombok added to Person class,&#10;Gender enum created" />
+    <MESSAGE value="interface CheckMembers added" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface CheckMembers added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
