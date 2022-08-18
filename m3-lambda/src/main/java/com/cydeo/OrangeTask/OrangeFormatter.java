@@ -5,6 +5,3 @@ public interface OrangeFormatter {
     String accept(Orange orange);   //because task requires String output (or to return String)
 
 }
-/*
-why? Because different behaviours to be created
- */
