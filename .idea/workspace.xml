@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="module4 started, gitignore added, pom file modified">
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/Calculator.java" afterDir="false" />
+    <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="double colon operator used first time">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +131,7 @@
       <updated>1660650644247</updated>
       <workItem from="1660650646017" duration="5391000" />
       <workItem from="1660658159270" duration="12833000" />
-      <workItem from="1660789716278" duration="7756000" />
+      <workItem from="1660789716278" duration="9414000" />
     </task>
     <task id="LOCAL-00001" summary="project started, gitignore added">
       <created>1660651013714</created>
@@ -301,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660835916002</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="calculator class started,&#10;calculate functional interface created,&#10;main class created">
+      <created>1660836671973</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1660836671973</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,8 +326,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="project started, gitignore added" />
-    <MESSAGE value="arraySorting class started" />
     <MESSAGE value="interface and few more sorting classes created" />
     <MESSAGE value="sorting structure is created" />
     <MESSAGE value="started Apple task" />
@@ -344,7 +349,9 @@
     <MESSAGE value="Functional Interface Task started" />
     <MESSAGE value="Functional Interface Task completed" />
     <MESSAGE value="module4 started, gitignore added, pom file modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="module4 started, gitignore added, pom file modified" />
+    <MESSAGE value="calculator class started,&#10;calculate functional interface created,&#10;main class created" />
+    <MESSAGE value="double colon operator used first time" />
+    <option name="LAST_COMMIT_MESSAGE" value="double colon operator used first time" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
