@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/m1-generics/pom.xml" />
+        <option value="$PROJECT_DIR$/m2-enum/pom.xml" />
+        <option value="$PROJECT_DIR$/m5-comparator_interface/pom.xml" />
       </list>
     </option>
   </component>

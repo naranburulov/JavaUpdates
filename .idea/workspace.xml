@@ -5,12 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2198a7c-73bd-423f-9d40-12f767dfbebb" name="Changes" comment="more examples added">
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/Calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/CountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/OddPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/SwapValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/UnaryPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m2-enum/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/CurrencyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/ProjectStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m5-comparator_interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m5-comparator_interface/src/main/java/com/cydeo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m5-comparator_interface/src/main/java/com/cydeo/MyComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +48,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2DR8fIOdoAEbw8v9ZEw48I2Vsav" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,7 +69,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "/Users/naranburulov/IdeaProjects/JavaUpdates/m3-lambda",
+    "last_opened_file_path": "/Users/naranburulov/IdeaProjects/JavaVersUpdates",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -135,6 +158,7 @@
       <workItem from="1660650646017" duration="5391000" />
       <workItem from="1660658159270" duration="12833000" />
       <workItem from="1660789716278" duration="10953000" />
+      <workItem from="1660843801512" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="project started, gitignore added">
       <created>1660651013714</created>
