@@ -1,5 +1,8 @@
 package com.cydeo.socialNetworkTask;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class MemberTest {
 
     public static void main(String[] args) {
@@ -13,4 +16,19 @@ public class MemberTest {
 
 
     }
+
+    public static void print (List<Person> personList, CheckMembers checkMembers){
+
+        List<Person> result = new ArrayList<>();
+        for (Person person : personList) {
+            if(checkMembers.test(person)){
+                result.add(person);
+            }
+        }
+        System.out.println(result);
+    }
+
+
+
+
 }
