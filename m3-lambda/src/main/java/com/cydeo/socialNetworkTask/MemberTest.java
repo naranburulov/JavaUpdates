@@ -10,13 +10,15 @@ public class MemberTest {
 
         Person p1 = new Person("naran", 37, Gender.MALE, "naran@gmail.com");
         Person p2 = new Person("dorothy", 20, Gender.FEMALE, "d@gmail.com");
-        Person p3 = new Person("memo", 45, Gender.MALE,"mehmet@gmail.com");
-        Person p4 = new Person("mike", 55, Gender.MALE, "mike@gmail.com");
+        Person p3 = new Person("tom", 21, Gender.MALE,"mehmet@gmail.com");
+        Person p4 = new Person("mike", 22, Gender.MALE, "mike@gmail.com");
 
 
         List<Person> personList = Arrays.asList(p1,p2,p3,p4);
 
 
+        CheckMembers checkMembers = p -> p.getGender() == Gender.MALE && p.getAge() >= 18 && p.getAge()<=25;
+        print(personList,checkMembers);
 
 
 
